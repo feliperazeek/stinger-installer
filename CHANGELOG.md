@@ -1,7 +1,6 @@
-## [0.0.3] - 1970-01-01
+## [0.0.4] - 1970-01-01
 #### Changed
-- Ty checking it out and coding also
-
+- Some cool feature
 
 ## [0.0.2] - 1970-01-01
 #### Changed
