@@ -1,3 +1,7 @@
+## [0.0.4] - 1970-01-01
+#### Changed
+- Testing multiple changelog files
+
 ## [0.0.3] - 1970-01-01
 #### Changed
 - Testing multiple changelog files
