@@ -1,0 +1,3 @@
+-- snowflake.schema DIMM
+-- snowflake.table UNIVERSAL_DIM_DATES
+-- snowflake.primaryKey ID
